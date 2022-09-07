@@ -1,0 +1,12 @@
+Read Chapter 2 which is long with a lot of material to digest.  Do the examples ( http://bit.ly/CSCI331-Homework)  as follows:
+USE TSQLV4 database to test the queries using the TSQLV4 database to demonstrate that they work.
+use Northwinds2022TSQLV# and correct the queries to work with tables and columns for the assignment below:
+Create a Git repository for storing your work
+use SQL notebooks
+Create a proposition describing each query in the file  Chapter 02 - Single-Table Queries.sql in the text portion of the notebook
+Execute each of the corrected queries using Northwinds2022TSQLV# in the n the code portion of the notebook
+Export 10 of the queries as a flat file using the Import\export wizard.  Save in a folder of your choice for each chapter ( Example: \CSCI331\Chapter2)
+Export 4 tables from the database into excel 2003  using the Import\export wizard.  Save in a folder of your choice for each chapter ( Example: \CSCI331\Chapter2)
+   Do the same for the Chapter 02 - Single-Table Queries - Exercises.sql by following the previous instructions.
+Record and explain in a walkthrough of what you have done in an MP4 video.  Submit a link to your video in blackboard.  Save the video in git.
+PHW1  - Single Table Queries
