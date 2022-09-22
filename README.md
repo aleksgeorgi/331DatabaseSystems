@@ -8,4 +8,4 @@ ER modeling; functional dependencies and relational design; file organization an
 Peter Heller 
 
 ## Technologies:
-Azure Data Studio; Docker; SQL/TSQL
+Azure Data Studio, Docker, SQL/TSQL
