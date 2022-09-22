@@ -6,3 +6,6 @@ ER modeling; functional dependencies and relational design; file organization an
 
 ## Professor:
 Peter Heller 
+
+## Technologies:
+Azure Data Studio; Docker; SQL/TSQL
